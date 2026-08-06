@@ -51,7 +51,7 @@ const App = () => {
       )}
 
       {error && (
-        <div className="flex justify-center items-center py-10 text-red-300 text-lg">
+        <div className="flex justify-center items-center py-10 text-red-00 text-lg">
           ⚠️ {error}
         </div>
       )}
